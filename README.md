@@ -1,7 +1,12 @@
 # ⚠️ The driver is not signed, please disable driver signature enforcement first, then install it.
 
+![Virtual Camera Usage Example](demo.png)
+
+
 [中文版本]
+
 1,支持将一个视频文件虚拟成一个USB UVC摄像头.
+
 2,支持将手机摄像头虚拟成一个PC端的USB UVC摄像头.
     手机端需安装IP CAMERA软件,可自行在应用商店下载安装.
 
